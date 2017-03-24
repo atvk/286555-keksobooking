@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anton Steblovskiy](https://up.htmlacademy.ru/javascript/9/user/286555).
-* Наставник: `Неизвестно`.
+* Наставник: `Михаил Баранов`.
 
 ---
 
